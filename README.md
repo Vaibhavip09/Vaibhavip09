@@ -75,15 +75,11 @@
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
+![Vaibhavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaibhavip09&show_icons=true&theme=radical)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vaibhavip09&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavip09&layout=compact&theme=tokyonight"/>
-
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavip09&layout=compact&theme=radical)
 
 ---
 
