@@ -37,7 +37,7 @@
 
 <p align="left">
 
-<a href="www.linkedin.com/in/vaibhavi-patil-408505252" target="blank">
+<a href="https://www.linkedin.com/in/vaibhavi-patil-408505252" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
 </a>
 
@@ -72,14 +72,6 @@
 </td>
 </tr>
 </table>
-
----
-
-## 📊 GitHub Stats
-
-![Vaibhavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaibhavip09&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavip09&layout=compact&theme=radical)
 
 ---
 
