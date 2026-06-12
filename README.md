@@ -21,7 +21,7 @@
 
 
 - 🔭 Currently working on **Java Full Stack Development**
-- 🌱 Learning **DSA, Spring Boot & Hibernate**
+- 🌱 Learning **Spring Boot & Hibernate**
 - 👯 Looking to collaborate on **Java Development Projects**
 - 💬 Ask me about **Java, SQL, Web Development & Spring Boot**
 - 📫 Reach me at: **pativaibhavi559@gmail.com**
